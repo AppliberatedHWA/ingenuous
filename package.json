@@ -1,0 +1,15 @@
+{
+    "name": "@appliberatedhwa/ingenuous",
+    "version": "1.0.0",
+    "description": "Default browser error page simulation",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AppliberatedHWA/ingenuous.git"
+    },
+    "author": "Appliberated",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/AppliberatedHWA/ingenuous/issues"
+    },
+    "homepage": "https://github.com/AppliberatedHWA/ingenuous"
+}
